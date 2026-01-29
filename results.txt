@@ -1,0 +1,55 @@
+Round 1:
+  Inputs : 99878765678954321768, 78643098765748374529
+  Product: 7854775633891043732946502222285641447272
+  Mults  : 400
+  Adds   : 398
+  Carries: 33
+  AvgMulCycles : 4461.83
+  AvgAddCycles : 200.527
+  AvgTotalCycles: 4662.36
+  BestOpCycles  : 4061
+
+Round 2:
+  Inputs : 99878765678954321768, 78643098765748374529
+  Product: 7854775633891043732946502222285641447272
+  Mults  : 400
+  Adds   : 398
+  Carries: 33
+  AvgMulCycles : 4240.4
+  AvgAddCycles : 184.397
+  AvgTotalCycles: 4424.8
+  BestOpCycles  : 4030
+
+Round 3:
+  Inputs : 99878765678954321768, 78643098765748374529
+  Product: 7854775633891043732946502222285641447272
+  Mults  : 400
+  Adds   : 398
+  Carries: 33
+  AvgMulCycles : 4092.91
+  AvgAddCycles : 183.343
+  AvgTotalCycles: 4276.25
+  BestOpCycles  : 4061
+
+Round 4:
+  Inputs : 99878765678954321768, 78643098765748374529
+  Product: 7854775633891043732946502222285641447272
+  Mults  : 400
+  Adds   : 398
+  Carries: 33
+  AvgMulCycles : 4249.52
+  AvgAddCycles : 182.525
+  AvgTotalCycles: 4432.05
+  BestOpCycles  : 4030
+
+Round 5:
+  Inputs : 99878765678954321768, 78643098765748374529
+  Product: 7854775633891043732946502222285641447272
+  Mults  : 400
+  Adds   : 398
+  Carries: 33
+  AvgMulCycles : 4230.92
+  AvgAddCycles : 184.041
+  AvgTotalCycles: 4414.96
+  BestOpCycles  : 4061
+
