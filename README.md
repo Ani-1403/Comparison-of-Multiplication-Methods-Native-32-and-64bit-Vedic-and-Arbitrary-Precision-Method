@@ -1,0 +1,2 @@
+# Comparison-of-Multiplication-Methods-Native-32-and-64bit-Vedic-and-Arbitrary-Precision-Method
+This project compares three main multiplication techniques(decimal): Traditional (for 32-bit and 64-bit numbers), Vedic, and Karatsuba (for large numbers). The aim is to see how each method performs based on the size of the numbers, how many CPU cycles they use, and how complex their addition (carry) steps are.
